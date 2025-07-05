@@ -1,6 +1,6 @@
 # 👋 Greetings
 Hi there! Welcome to my GitHub space.  
-I’m **Prince Amoako Atta**, and I’m excited to share my journey, projects, and the work I’m passionate about.
+**Prince Amoako Atta** is my name, and I am excited to share my journey, projects, and the work I am passionate about.
 
 ---
 
