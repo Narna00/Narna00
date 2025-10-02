@@ -20,12 +20,12 @@ My work spans data visualization, database design, SQL analytics, Power BI dashb
 ## Skills
 
 ### Tech Skills
-- **Data Analytics:** Power BI, Excel, SQL, Python
+- **Data Analytics:** Power BI, Excel, SQL, Looker Studio, AI/ML/DL
 - **Database Management:** MySQL, Relational Database Design
-- **Cybersecurity:** Kali Linux, BurpSuite, Wireshark, Metasploit
+- **Cybersecurity:** PenTest, Malware Analysis, Android/API/Software Security etc.
 - **Programming:** Python, Bash, SQL
 - **Libraries:** Matplotlib, Pandas, Seaborn, Scikit-Learn
-- **Other Tools:** GitHub, Google Workspace, MS Office
+- **Other Tools:** GitHub, BigQuery, VS Code
 
 ### Soft Skills
 - Communication
